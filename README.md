@@ -14,7 +14,7 @@
 
 タスクをキーボード入力して送信ボタンを押すと以下の画面になります。
 
-![TaskInput](./img/taskuinput.png)
+![TaskInput](./img/taskinput.png)
 
 Select Task Numberでタスクの番号を入力するとタイマーが表示されます。
 
