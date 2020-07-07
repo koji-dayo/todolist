@@ -18,7 +18,7 @@ Select Task Numberでタスクの番号を入力するとタイマーが表示�
 ![Timer](./img/timer.png)
 
 音声操作の手順はVoceボタンを押して、タスク名 時間 の順にマイクに向かって話すと認識してくれます。次の画像の例は「数学の勉強をする」「40」とマイクに向かって話しかけた結果です。
-![VoiceInput](./voiceinput.png)
+![VoiceInput](./img/voiceinput.png)
 
 完了したタスクはCompleteボタンを押すことで完了済みということになります。
 ![Complete](./img/Complete.png)
